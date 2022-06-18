@@ -6,8 +6,8 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="Bai8_Droplist" />
         <module name="Maven18062022_crash" />
-        <module name="crash18062022" />
       </profile>
     </annotationProcessing>
   </component>
